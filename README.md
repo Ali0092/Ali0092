@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center"> Hi Folks 👋 ,I am Muhammad Ali </h1>
 
-<!--
-**Ali0092/Ali0092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> A Computer Science Student who is passionate Android Application Developer, eager to learn new technologies, and provide the Community the things which I already know and also things that i am learning and exploring now.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" ><img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Ali0092&show_icons=true" /> </p>
+
+<p align="center"> <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0092" /> </p>
+
+<p align="center">
+  
+<img  src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+
+<img  src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+</p>
+
+- 🔭 I’m currently working on a **Drawing App**
+- 🌱 I’m currently learning **Jetpack Compose**
+- 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
+- ⚡ Fun fact: Sometimes I even code in my dreams.
+
+<h3 align="left">Connect with me:</h3>
+
+- **khanzada.kashif2001@gmail.com**
