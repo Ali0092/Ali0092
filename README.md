@@ -24,4 +24,4 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- **khanzada.kashif2001@gmail.com**
+- **Aligondal8750@gmail.com**
