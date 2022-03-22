@@ -3,7 +3,9 @@
 <h3 align="center"> A Computer Science Student who is passionate Android Application Developer, eager to learn new technologies, and provide the Community the things which I already know and also things that i am learning and exploring now.</h3>
 
 
-<p align="center" ><img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Ali0092&show_icons=true" /> </p>
+<p align="center" > <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Ali0092&show_icons=true" /> </p>
+
+<p align="center"> <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali0092&" alt="Ali0092" /></p>
 
 <p align="center"> <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0092" /> </p>
 
