@@ -1,6 +1,6 @@
 <h1 align="center"> Hi Folks 👋 ,I am Muhammad Ali </h1>
 
-<h3 align="center"> A Computer Science Student who is passionate Android Application Developer, eager to learn new technologies, and provide the Community the things which I already know and also things that i am learning and exploring now.</h3>
+<h3 align="center"> A Computer Science Student who is passionate Android Application Developer, eager to learn new technologies, and provide the Community the things which I already know and also things that i am learning and exploring now. Ali is also a tech Article Wrtier who try to write for the beginners and the new commer in the field of Android Application developement..:) </h3>
 
 
 <p align="center" > <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Ali0092&show_icons=true" /> </p>
@@ -21,9 +21,10 @@
 
 - 🔭 I’m currently working on a **Drawing App**
 - 🌱 I’m currently learning **Jetpack Compose**
-- 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
-- ⚡ Fun fact: Sometimes I even code in my dreams.
+- 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM, Design Patterns**
+- ⚡ Fun fact: Sometimes Solving Bugs in my dreams.
 
 <h3 align="left">Connect with me:</h3>
 
 - **Aligondal8750@gmail.com**
+
