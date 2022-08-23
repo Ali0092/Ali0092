@@ -27,4 +27,5 @@
 <h3 align="left">Connect with me:</h3>
 
 - **Aligondal8750@gmail.com**
+- **https://www.linkedin.com/in/muhammad-ali-a28422222/**
 
