@@ -4,7 +4,7 @@
 
 
 <p align="center" > <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Ali0092&show_icons=true" /> </p>
-<p align="center" > <img  width="10%" src="https://komarev.com/ghpvc/?username=Ali0092&label=Profile%20views&color=blue&style=flat&show_icons=true" /> </p>
+<p align="center" > <img  width="10%" src="https://komarev.com/ghpvc/?username=Ali0092&label=Profile%20views&color=blue&style=flat" /> </p>
 
 <p align="center">
   
@@ -13,8 +13,7 @@
 <h3 align="left">Facts</h3>
 
 - 🌱 I’m currently learning **Jetpack Compose and Coding too**
-- 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM, Design Patterns**
-- ⚡ Fun fact: Sometimes Solving Bugs in my dreams.
+- 💬 Ask me about **Android, Jetpack Compose, Clean Architecture, MVVM, Design Patterns, Firebase, Google APIs**
 
 <h3 align="left">Connect with me:</h3>
 
