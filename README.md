@@ -4,11 +4,7 @@
 
 
 <p align="center" > <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Ali0092&show_icons=true" /> </p>
-<p align="center" > <img  width="10%" src="https://komarev.com/ghpvc/?username=Ali0092&label=Profile%20views&color=blue&style=flat" /> </p>
-
-<p align="center">
-  
-</p>
+<p align="center" > <img  width="12%" src="https://komarev.com/ghpvc/?username=Ali0092&label=Profile%20views&color=blue&style=flat" /> </p>
 
 <h3 align="left">Facts</h3>
 
