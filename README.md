@@ -1,4 +1,3 @@
-<img width="1983" height="793" alt="ChatGPT Image Jun 12, 2026, 12_00_46 PM" src="https://github.com/user-attachments/assets/9854938a-e911-46ce-872e-58b8cc6a9c1d" />
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Muhammad Ali</h1>
 
